@@ -1,6 +1,6 @@
 # XML RPC Word Count
 
-Word count program illustration using XML RPC client and server. Implemented both with single threading and multi threading.
+Word count program illustration using XML RPC client and server. Implemented using both single threading and multi threading.
 
 # Documentation
 
